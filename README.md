@@ -28,7 +28,7 @@ petr dvorak, 603123456
 bedrich smetana ml., 541141120
 
 ```bash
-$ ./proj1.rb 686 <contacts.txt
+$ ruby Proj1.rb 686 <contacts.txt
 ```
 jana nOVOtna, 777987654
 (OVO only for demonstration)
