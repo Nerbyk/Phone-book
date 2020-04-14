@@ -23,7 +23,7 @@ bedrich smetana ml., 541141120
 
 
 ```bash
-$ ruby Rroj1.rb 12 <contacts.txt
+$ ruby Proj1.rb 12 <contacts.txt
 ```
 petr dvorak, 603123456
 
