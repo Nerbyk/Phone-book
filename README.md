@@ -2,6 +2,7 @@
 
 ## Description
 The same functionality like in my university project №1 in Ruby language while learning it
+
 Directory: https://github.com/Nerbyk/VUTBR-FIT-1BIT/tree/master/Introduction%20to%20Programming%20Systems%20(C)/Project%201
 
 The aim of the project is to create a program that emulates
