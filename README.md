@@ -25,6 +25,7 @@ bedrich smetana ml., 541141120
 $ ruby Rroj1.rb 12 <contacts.txt
 ```
 petr dvorak, 603123456
+
 bedrich smetana ml., 541141120
 
 ```bash
